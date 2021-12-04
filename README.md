@@ -1,1 +1,1 @@
-# cc-lab6
+# PLACEMENT GUIDE
